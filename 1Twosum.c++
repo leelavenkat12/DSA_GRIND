@@ -4,7 +4,8 @@
 
 // You can return the answer in any order.
 
- 
+//  AS this is brute appraoch s i took two potiners i and j and i =0 and j will loop from 1 to n and ass uptill i completes 
+
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
