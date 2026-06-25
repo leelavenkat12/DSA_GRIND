@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0162-find-peak-element) |
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
