@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0278-first-bad-version) |
 ## Recursion
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
