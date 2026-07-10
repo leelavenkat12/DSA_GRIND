@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0147-insertion-sort-list) |
+| [0217-contains-duplicate](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
