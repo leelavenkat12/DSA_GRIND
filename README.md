@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3945-digit-frequency-score](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3945-digit-frequency-score) |
 ## Hash Table
