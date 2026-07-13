@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3668-restore-finishing-order) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3668-restore-finishing-order) |
