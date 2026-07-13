@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3945-digit-frequency-score) |
 ## Heap (Priority Queue)
 |  |
