@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0066-plus-one) |
