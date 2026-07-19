@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
