@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0832-flipping-an-image) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
