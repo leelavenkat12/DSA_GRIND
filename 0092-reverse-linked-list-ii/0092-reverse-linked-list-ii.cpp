@@ -24,7 +24,7 @@ public:
             right--;
         }
         int i =1;
-
+    
         ListNode* newHead = new ListNode(convert[0]);
         ListNode* temp1 = newHead;
         while(i<convert.size()){
