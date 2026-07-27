@@ -1,13 +1,13 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int right = 0;
-        for(int i = 0; i < nums.size(); i++) {
-            if(nums[i] != val) {
-                swap(nums[right], nums[i]);
-                right++;
+        int writer = 0;
+        for(int reader = 0 ; reader<nums.size();reader++){
+            if(nums[reader]!=val){
+                swap(nums[reader],nums[writer]);
+                writer++;
             }
         }
-        return right;
+        return writer;
     }
 };
