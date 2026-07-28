@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1768-merge-strings-alternately) |
+| [2460-apply-operations-to-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2460-apply-operations-to-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0832-flipping-an-image) |
+| [2460-apply-operations-to-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2460-apply-operations-to-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
