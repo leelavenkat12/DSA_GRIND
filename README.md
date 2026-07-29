@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2460-apply-operations-to-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Array
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2460-apply-operations-to-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
