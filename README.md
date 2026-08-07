@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0832-flipping-an-image) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2460-apply-operations-to-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2460-apply-operations-to-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1768-merge-strings-alternately) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
