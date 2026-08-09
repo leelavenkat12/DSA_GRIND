@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0443-string-compression) |
+| [1021-remove-outermost-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -229,5 +230,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
