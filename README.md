@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1903-largest-odd-number-in-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3945-digit-frequency-score) |
 ## Hash Table
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0881-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
