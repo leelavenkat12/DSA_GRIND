@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0443-string-compression) |
