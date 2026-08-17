@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0242-valid-anagram) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0205-isomorphic-strings) |
