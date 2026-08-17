@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0016-3sum-closest) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0125-valid-palindrome) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0392-is-subsequence) |
 ## Sweep Line
 |  |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
