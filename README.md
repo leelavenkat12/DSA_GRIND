@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3467-transform-array-by-parity](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1768-merge-strings-alternately) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3541-find-most-frequent-vowel-and-consonant) |
