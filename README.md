@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0451-sort-characters-by-frequency) |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
