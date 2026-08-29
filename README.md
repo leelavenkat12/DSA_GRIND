@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0986-interval-list-intersections) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2460-apply-operations-to-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2460-apply-operations-to-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/leelavenkat12/DSA_GRIND/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1768-merge-strings-alternately) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1910-remove-all-occurrences-of-a-substring) |
