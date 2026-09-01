@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0977-squares-of-a-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leelavenkat12/DSA_GRIND/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
