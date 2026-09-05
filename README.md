@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/leelavenkat12/DSA_GRIND/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/leelavenkat12/DSA_GRIND/tree/master/1903-largest-odd-number-in-string) |
